@@ -7,6 +7,7 @@ get target location by link
 # prerequisites
 <pre>
 <code>
+<img src='xlroot.jpg' />
 apt update <br />
 apt install git php python3 openssh -y <br />
 pip3 install pyTelegramBotAPI 
