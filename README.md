@@ -1,13 +1,12 @@
 # bot-location
 
 # Xlroot
-
+<img src='xlroot.jpg' />
 get target location by link
 <br />
 # prerequisites
 <pre>
 <code>
-<img src='xlroot.jpg' />
 apt update <br />
 apt install git php python3 openssh -y <br />
 pip3 install pyTelegramBotAPI 
